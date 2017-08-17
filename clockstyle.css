@@ -1,0 +1,87 @@
+h1 {
+    line-height: 1.25em;
+    font-size: 1.5em;
+    padding: 0.25em 0;
+    margin: 0;
+    text-align: center;
+    border-radius: 5px;
+    background: #00C5CD;
+    color: azure;
+}
+
+input {
+    width: 40px
+}
+
+.out {
+    width: 90%;
+    max-width: 510px;
+    font-size: 1em;
+    background: #f3f3f3;
+    border-radius: 10px;
+    color: #444;
+    margin: auto;
+    padding: 4px;
+    text-align: left;
+}
+
+img {
+    width: 140px;
+    margin-left: 20px;
+    margin-right: 20px
+}
+
+li {
+    text-align: left;
+    padding-right: 15px;
+}
+
+.translators_name {
+    text-align: right;
+    margin: 20px 10px 10px 0;
+    font-size: .7em;
+    color: #bbb;
+}
+
+#update-info p {
+    font-size: 1.25em;
+    color: #666;
+    padding: 0 1em;
+}
+
+#jpgs {
+    text-align: center;
+}
+
+.time {
+    text-align: center;
+    border-radius: 5px;
+    font-size: 5em;
+}
+
+#other, #stateInput, #buttons, #set {
+    text-align: center;
+}
+
+#set {
+    width: 70%;
+    margin: auto;
+    background: #CCC;
+}
+
+button {
+    margin: 13px auto;
+    font-size: 1.5em;
+    padding: 0.3em 2em;
+    background-color: #0078e7;
+    color: #fff;
+}
+
+#stateInput {
+    font-size: 1.3em
+}
+
+#inputState {
+    font-size: 1.1em;
+    width: 100px
+}
